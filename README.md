@@ -29,8 +29,8 @@ jupyter notebook
 
 ## Files
 - /build_socioeconomic_profiles.ipynb: Python Notebook for calculating socio-economic profiles
-- /Data_Items_And_Sources_2019.xlsx: Excel file containing attribute calculations that the python notebook calculations are based on
-- /attribute_lookup.csv: Lookup table with attribute categories, attributes names and attribute IDs for all attributes needed to calcualte the profile data
+- /Data_Items_And_Sources_2019.xlsx: Excel file containing attribute calculations that profile calculations are based on
+- /attribute_lookup.csv: Lookup table with attribute categories, attributes names and attribute IDs for all attributes needed to calculate the profile data
 - /geo_lookup.csv: Lookup table with neighborhood, supervisor district, and city name for each tract in San Francisco.  
 - /median_lookup.csv: Lookup table needed for calculating medians. Contains name, id, range_start, and range_end for median calcs. 
 - /neighborhoods/neighborhoods.shp: Shapefile with San Francisco Neighborhoods used for mapping visualization
