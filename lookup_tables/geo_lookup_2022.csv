@@ -1,0 +1,242 @@
+﻿tractid,neighborhood,supervisor_district,city
+010101,North Beach,3,San Francisco
+010102,North Beach,3,San Francisco
+010201,Russian Hill,2,San Francisco
+010202,Russian Hill,2,San Francisco
+010300,Russian Hill,3,San Francisco
+010401,North Beach,3,San Francisco
+010402,North Beach,3,San Francisco
+010500,Financial District,3,San Francisco
+010600,North Beach,3,San Francisco
+010701,Chinatown,3,San Francisco
+010702,Chinatown,3,San Francisco
+010800,Nob Hill,3,San Francisco
+010901,Russian Hill,3,San Francisco
+010902,Russian Hill,3,San Francisco
+011001,Russian Hill,3,San Francisco
+011002,Russian Hill,3,San Francisco
+011101,Nob Hill,3,San Francisco
+011102,Nob Hill,3,San Francisco
+011200,Nob Hill,3,San Francisco
+011300,Chinatown,3,San Francisco
+011700,Financial District,3,San Francisco
+011800,Chinatown,3,San Francisco
+011901,Nob Hill,3,San Francisco
+011902,Nob Hill,3,San Francisco
+012001,Nob Hill,3,San Francisco
+012002,Nob Hill,3,San Francisco
+012100,Nob Hill,3,San Francisco
+012202,Tenderloin,6,San Francisco
+012203,Tenderloin,6,San Francisco
+012204,Tenderloin,6,San Francisco
+012301,Tenderloin,3,San Francisco
+012302,Tenderloin,3,San Francisco
+012403,Tenderloin,6,San Francisco
+012404,Tenderloin,6,San Francisco
+012405,Tenderloin,6,San Francisco
+012406,Tenderloin,6,San Francisco
+012502,Tenderloin,6,San Francisco
+012503,Tenderloin,6,San Francisco
+012504,Tenderloin,6,San Francisco
+012601,Marina,2,San Francisco
+012602,Marina,2,San Francisco
+012700,Marina,2,San Francisco
+012801,Marina,2,San Francisco
+012802,Marina,2,San Francisco
+012901,Marina,2,San Francisco
+012902,Marina,2,San Francisco
+013001,Marina,2,San Francisco
+013002,Marina,2,San Francisco
+013101,Pacific Heights,2,San Francisco
+013102,Pacific Heights,2,San Francisco
+013200,Pacific Heights,2,San Francisco
+013300,Presidio Heights,2,San Francisco
+013401,Pacific Heights,2,San Francisco
+013402,Pacific Heights,2,San Francisco
+013500,Pacific Heights,2,San Francisco
+015100,Western Addition,2,San Francisco
+015201,Pacific Heights,5,San Francisco
+015202,Pacific Heights,5,San Francisco
+015300,Pacific Heights,2,San Francisco
+015401,Presidio Heights,2,San Francisco
+015402,Presidio Heights,2,San Francisco
+015500,Japantown,5,San Francisco
+015600,Lone Mountain/USF,1,San Francisco
+015701,Lone Mountain/USF,1,San Francisco
+015702,Lone Mountain/USF,1,San Francisco
+015801,Western Addition,5,San Francisco
+015802,Western Addition,5,San Francisco
+015900,Western Addition,5,San Francisco
+016000,Western Addition,5,San Francisco
+016101,Western Addition,5,San Francisco
+016102,Western Addition,5,San Francisco
+016200,Hayes Valley,5,San Francisco
+016300,Hayes Valley,5,San Francisco
+016400,Hayes Valley,5,San Francisco
+016500,Lone Mountain/USF,5,San Francisco
+016601,Haight Ashbury,5,San Francisco
+016602,Haight Ashbury,5,San Francisco
+016700,Haight Ashbury,5,San Francisco
+016801,Hayes Valley,5,San Francisco
+016802,Hayes Valley,5,San Francisco
+016900,Castro/Upper Market,8,San Francisco
+017000,Castro/Upper Market,8,San Francisco
+017101,Haight Ashbury,5,San Francisco
+017102,Haight Ashbury,5,San Francisco
+017602,South of Market,6,San Francisco
+017603,South of Market,6,San Francisco
+017604,South of Market,6,San Francisco
+017700,Mission,9,San Francisco
+017801,South of Market,6,San Francisco
+017803,South of Market,6,San Francisco
+017804,South of Market,6,San Francisco
+017903,Treasure Island,6,San Francisco
+018000,South of Market,6,San Francisco
+020101,Mission,9,San Francisco
+020102,Mission,9,San Francisco
+020201,Mission,8,San Francisco
+020202,Mission,8,San Francisco
+020300,Castro/Upper Market,8,San Francisco
+020401,Castro/Upper Market,8,San Francisco
+020402,Twin Peaks,8,San Francisco
+020500,Castro/Upper Market,8,San Francisco
+020601,Castro/Upper Market,8,San Francisco
+020602,Castro/Upper Market,8,San Francisco
+020701,Mission,8,San Francisco
+020702,Mission,8,San Francisco
+020801,Mission,9,San Francisco
+020802,Mission,9,San Francisco
+020900,Mission,9,San Francisco
+021000,Mission,8,San Francisco
+021100,Noe Valley,8,San Francisco
+021200,Noe Valley,8,San Francisco
+021300,Noe Valley,8,San Francisco
+021400,Noe Valley,8,San Francisco
+021500,Noe Valley,8,San Francisco
+021600,Noe Valley,8,San Francisco
+021700,Glen Park,8,San Francisco
+021800,Glen Park,8,San Francisco
+022600,Potrero Hill,10,San Francisco
+022702,Potrero Hill,10,San Francisco
+022704,Potrero Hill,10,San Francisco
+022801,Mission,9,San Francisco
+022802,Mission,10,San Francisco
+022803,Mission,9,San Francisco
+022901,Mission,9,San Francisco
+022902,Mission,9,San Francisco
+022903,Mission,9,San Francisco
+023001,Bayview Hunters Point,10,San Francisco
+023003,Bayview Hunters Point,10,San Francisco
+023102,Bayview Hunters Point,10,San Francisco
+023103,Bayview Hunters Point,10,San Francisco
+023200,Bayview Hunters Point,10,San Francisco
+023300,Bayview Hunters Point,10,San Francisco
+023400,Bayview Hunters Point,10,San Francisco
+025100,Bernal Heights,9,San Francisco
+025200,Bernal Heights,9,San Francisco
+025300,Bernal Heights,9,San Francisco
+025401,Bernal Heights,9,San Francisco
+025402,Bernal Heights,9,San Francisco
+025403,Bernal Heights,9,San Francisco
+025501,Outer Mission,11,San Francisco
+025502,Outer Mission,11,San Francisco
+025600,Excelsior,9,San Francisco
+025701,Portola,9,San Francisco
+025702,Portola,9,San Francisco
+025800,Portola,10,San Francisco
+025900,Portola,9,San Francisco
+026001,Excelsior,11,San Francisco
+026002,Excelsior,11,San Francisco
+026003,Excelsior,11,San Francisco
+026004,Excelsior,11,San Francisco
+026100,Outer Mission,11,San Francisco
+026201,Outer Mission,11,San Francisco
+026202,Outer Mission,11,San Francisco
+026301,Excelsior,11,San Francisco
+026302,Excelsior,11,San Francisco
+026303,Excelsior,11,San Francisco
+026401,Visitacion Valley,10,San Francisco
+026402,Visitacion Valley,10,San Francisco
+026403,Visitacion Valley,10,San Francisco
+026404,Visitacion Valley,10,San Francisco
+030101,Inner Sunset,5,San Francisco
+030102,Inner Sunset,7,San Francisco
+030201,Inner Sunset,5,San Francisco
+030202,Inner Sunset,5,San Francisco
+030301,Inner Sunset,7,San Francisco
+030302,Inner Sunset,7,San Francisco
+030400,West of Twin Peaks,7,San Francisco
+030500,Twin Peaks,7,San Francisco
+030600,West of Twin Peaks,7,San Francisco
+030700,West of Twin Peaks,7,San Francisco
+030800,West of Twin Peaks,7,San Francisco
+030900,West of Twin Peaks,7,San Francisco
+031000,West of Twin Peaks,7,San Francisco
+031100,West of Twin Peaks,7,San Francisco
+031201,Oceanview/Merced/Ingleside,11,San Francisco
+031202,Oceanview/Merced/Ingleside,11,San Francisco
+031301,Oceanview/Merced/Ingleside,11,San Francisco
+031302,Oceanview/Merced/Ingleside,11,San Francisco
+031401,Oceanview/Merced/Ingleside,11,San Francisco
+031402,Oceanview/Merced/Ingleside,11,San Francisco
+032601,Sunset/Parkside,4,San Francisco
+032602,Sunset/Parkside,4,San Francisco
+032700,Sunset/Parkside,4,San Francisco
+032801,Sunset/Parkside,4,San Francisco
+032802,Sunset/Parkside,4,San Francisco
+032901,Sunset/Parkside,4,San Francisco
+032902,Sunset/Parkside,4,San Francisco
+033001,Sunset/Parkside,4,San Francisco
+033002,Sunset/Parkside,4,San Francisco
+033100,Sunset/Parkside,7,San Francisco
+033201,Lakeshore,7,San Francisco
+033203,Lakeshore,7,San Francisco
+033204,Lakeshore,7,San Francisco
+035101,Sunset/Parkside,4,San Francisco
+035102,Sunset/Parkside,4,San Francisco
+035201,Sunset/Parkside,4,San Francisco
+035202,Sunset/Parkside,4,San Francisco
+035300,Sunset/Parkside,4,San Francisco
+035400,Sunset/Parkside,4,San Francisco
+040100,Inner Richmond,1,San Francisco
+040200,Inner Richmond,1,San Francisco
+042601,Outer Richmond,1,San Francisco
+042602,Outer Richmond,1,San Francisco
+042700,Outer Richmond,1,San Francisco
+042800,Seacliff,2,San Francisco
+045100,Inner Richmond,1,San Francisco
+045201,Inner Richmond,1,San Francisco
+045202,Inner Richmond,1,San Francisco
+047600,Outer Richmond,1,San Francisco
+047701,Outer Richmond,1,San Francisco
+047702,Outer Richmond,1,San Francisco
+047801,Outer Richmond,1,San Francisco
+047802,Outer Richmond,1,San Francisco
+047902,Outer Richmond,1,San Francisco
+047903,Outer Richmond,1,San Francisco
+047904,Outer Richmond,1,San Francisco
+060100,Presidio,2,San Francisco
+060400,Lakeshore,7,San Francisco
+060502,Visitacion Valley,10,San Francisco
+060701,Mission Bay,6,San Francisco
+060702,Mission Bay,6,San Francisco
+060703,Mission Bay,6,San Francisco
+061000,Bayview Hunters Point,10,San Francisco
+061101,Chinatown,3,San Francisco
+061102,Chinatown,3,San Francisco
+061200,Bayview Hunters Point,10,San Francisco
+061401,Potrero Hill,10,San Francisco
+061402,Potrero Hill,10,San Francisco
+061501,Financial District,6,San Francisco
+061502,Financial District,6,San Francisco
+061503,Financial District,6,San Francisco
+061504,Financial District,6,San Francisco
+061505,Financial District,6,San Francisco
+061506,Financial District,6,San Francisco
+061507,Financial District,6,San Francisco
+061508,Financial District,6,San Francisco
+980200,Lincoln Park,1,San Francisco
+980300,Golden Gate Park,1,San Francisco
+980501,McLaren Park,10,San Francisco
+980600,Bayview Hunters Point,10,San Francisco
+980900,Bayview Hunters Point,10,San Francisco
